@@ -1,0 +1,16 @@
+{
+  "name": "zipfiles-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "grammy": "^1.30.0"
+  }
+}
